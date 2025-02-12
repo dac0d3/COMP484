@@ -1,12 +1,35 @@
 
-body{
+
+html{
+    padding: 0;
     background-color: #DFCF9A;
-    font-family:'Times New Roman';
-   
+}
+
+
+body{
+    
+    font-family:Georgia,'Times New Roman',serif;
+    line-height: 1.6em;
+    margin: 0 auto;
+    width: 80%;
 }
 
 header{
     text-align: center;
+
+}
+
+h4{
+    font-style: italic;
+    font-weight: normal;
+
+
+}
+
+h3{
+    font-style: italic;
+    font-weight: normal;
+
 
 }
 
